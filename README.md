@@ -1,0 +1,18 @@
+# Intro to Github
+
+Phase | Description
+------|------------
+Day 1 | Intro to Markdown
+Day 2 | Intro to Github
+Day 3 | Graduate to Github
+
+
+
+```javascript
+
+function greeting(){
+
+	console.log("Hello World!");
+}
+
+```
